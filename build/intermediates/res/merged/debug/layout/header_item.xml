@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="horizontal"
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:background="#ffa742">
+
+    <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/textItemHeader"
+            android:height="30dp"
+            android:textColor="#FFFFFFFF"/>
+</LinearLayout><!-- From: file:/C:/Users/k@mahortov/AndroidStudioProjects/pinnedheaderlist1/app/src/main/res/layout/header_item.xml -->
